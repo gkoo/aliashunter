@@ -1,5 +1,5 @@
 module.exports = (opt) => {
-  "use strict";
+  'use strict';
   this.handle = opt.handle;
   this.name = opt.name;
   this.team = opt.team;
